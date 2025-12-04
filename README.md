@@ -1,6 +1,6 @@
-# AquaSentinel
+# AquaIntel
 
-AquaSentinel is an IoT-based web application designed to monitor and analyze water quality in real-time. By collecting data on various water parameters, it provides users with insights into overall water health, aiding in proactive water resource management.
+AquaIntel is an IoT-based web application designed to monitor and analyze water quality in real-time. By collecting data on various water parameters, it provides users with insights into overall water health, aiding in proactive water resource management.
 
 ## Features
 - 🔍 **Data Filtering**: Customize data views based on specific time frames and locations.
@@ -9,7 +9,7 @@ AquaSentinel is an IoT-based web application designed to monitor and analyze wat
 - ⚠️ **Alerts System**: Receive automated notifications when critical changes in water quality are detected.
 
 ## Tech Stack
-​AquaSentinel employs advanced machine learning algorithms to enhance its water quality monitoring and predictive capabilities:​
+​AquaIntel employs advanced machine learning algorithms to enhance its water quality monitoring and predictive capabilities:​
 - **Random Forest Classifier**: Utilized for predicting water quality based on parameters such as pH, hardness, and turbidity. This ensemble learning method improves accuracy by constructing multiple decision trees during training and outputting the mode of their predictions. ​
 Academia
 - **Support Vector Machine (SVM)**: Applied to classify water quality data by finding the optimal hyperplane that separates different classes, ensuring robust performance even in high-dimensional spaces. ​
@@ -19,7 +19,7 @@ Academia
 ## Installation & Setup
 
 ### Prerequisites
-Before setting up AquaSentinel, ensure you have the following installed:
+Before setting up AquaIntel, ensure you have the following installed:
 - **Node.js**: JavaScript runtime environment.
 - **npm**: Node package manager.
 - **MongoDB**: NoSQL database for data management.
@@ -27,8 +27,8 @@ Before setting up AquaSentinel, ensure you have the following installed:
 ### Clone the Repository
 Open your terminal and execute:
 ```bash
-git clone https://github.com/Aadvik1011/AquaSentinel.git
-cd AquaSentinel
+git clone https://github.com/Varun2806/AquaIntel.git
+cd AquaIntel
 ```
 
 ### Configure Environment Variables
@@ -78,9 +78,9 @@ AquaSentinel is open-source and licensed under the **MIT License**. For more det
 
 ## Contact & Support
 For inquiries, suggestions, or issues, feel free to reach out via:
-- 📧 Email: aadvik1011@gmail.com
+- 📧 Email: vgoyal2806.com
 - 💬 GitHub Issues: [GitHub Issues Page]
-- 🌐 LinkedIn: Aadvik Bharadwaj
+- 🌐 LinkedIn: VarunGoyal2806
 
 *Note: This README is based on the information available from the AquaSentinel repository and related sources.*
 
