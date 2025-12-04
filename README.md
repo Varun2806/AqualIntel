@@ -82,5 +82,5 @@ For inquiries, suggestions, or issues, feel free to reach out via:
 - 💬 GitHub Issues: [GitHub Issues Page]
 - 🌐 LinkedIn: VarunGoyal2806
 
-*Note: This README is based on the information available from the AquaSentinel repository and related sources.*
+*Note: This README is based on the information available from the AquaIntel repository and related sources.*
 
